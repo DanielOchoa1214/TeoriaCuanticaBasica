@@ -48,7 +48,7 @@ Primero el vector generico para una particula con spin seria
 por tanto el vector generico que representaria el spin de otra particula, digamos que sea
 
 <p align="center">
-  <img src="https://imgur.com/a/A8aKnsG" width="350">
+  <img src="/images/2.png">
 </p>
 
 Luego el vector que me representara el ensamblamiento de ambos sistemas sera
