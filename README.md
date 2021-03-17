@@ -43,7 +43,9 @@ Para ejecutar el test solo debe abrir el archivo testBasicQuantumTheory.py y eje
 
 Primero el vector generico para una particula con spin seria 
 
-<img src="/images/1.png">
+<p align="center">
+  <img src="/images/1.png">
+</p>
 
 por tanto el vector generico que representaria el spin de otra particula, digamos que sea
 
@@ -54,13 +56,13 @@ por tanto el vector generico que representaria el spin de otra particula, digamo
 Luego el vector que me representara el ensamblamiento de ambos sistemas sera
 
 <p align="center">
-  <img src="https://imgur.com/NrO9SNQ" width="350">
+  <img src="/images/3.png" width="350">
 </p>
 
 Luego de esta analogia podemos inferir que para un sistema de n particulas el vector sera 
 
 <p align="center">
-  <img src="https://imgur.com/SMQiaby" width="350">
+  <img src="/images/4.png" width="350">
 </p>
 
 ## Discusion ejercicio 4.5.3
@@ -68,19 +70,19 @@ Luego de esta analogia podemos inferir que para un sistema de n particulas el ve
 Si se parte del sistema dado por el libro
 
 <p align="center">
-  <img src="https://imgur.com/uGZ2tRX" width="350">
+  <img src="/images/5.png" width="350">
 </p>
 
 se puede decontruir la ecuacion de estado del ket phi y llegar a 
 
 <p align="center">
-  <img src="https://imgur.com/utyegOB" width="350">
+  <img src="/images/6.png" width="350">
 </p>
 
 Por tanto el vector phi podria representarse como el sistema de 2 particulas
 
 <p align="center">
-  <img src="https://imgur.com/XoboalB" width="350">
+  <img src="/images/7.png" width="350">
 </p>
 
 ## Hecho con
