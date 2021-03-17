@@ -43,9 +43,7 @@ Para ejecutar el test solo debe abrir el archivo testBasicQuantumTheory.py y eje
 
 Primero el vector generico para una particula con spin seria 
 
-<p align="center">
-  <img src="https://imgur.com/a/NGDnL7C" width="350">
-</p>
+<img src="/images/1.png">
 
 por tanto el vector generico que representaria el spin de otra particula, digamos que sea
 
