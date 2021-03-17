@@ -56,13 +56,13 @@ por tanto el vector generico que representaria el spin de otra particula, digamo
 Luego el vector que me representara el ensamblamiento de ambos sistemas sera
 
 <p align="center">
-  <img src="/images/3.png" width="350">
+  <img src="/images/3.png">
 </p>
 
 Luego de esta analogia podemos inferir que para un sistema de n particulas el vector sera 
 
 <p align="center">
-  <img src="/images/4.png" width="350">
+  <img src="/images/4.png">
 </p>
 
 ## Discusion ejercicio 4.5.3
@@ -70,19 +70,19 @@ Luego de esta analogia podemos inferir que para un sistema de n particulas el ve
 Si se parte del sistema dado por el libro
 
 <p align="center">
-  <img src="/images/5.png" width="350">
+  <img src="/images/5.png">
 </p>
 
 se puede decontruir la ecuacion de estado del ket phi y llegar a 
 
 <p align="center">
-  <img src="/images/6.png" width="350">
+  <img src="/images/6.png">
 </p>
 
 Por tanto el vector phi podria representarse como el sistema de 2 particulas
 
 <p align="center">
-  <img src="/images/7.png" width="350">
+  <img src="/images/7.png">
 </p>
 
 ## Hecho con
