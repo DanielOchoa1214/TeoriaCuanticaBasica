@@ -65,6 +65,8 @@ Luego de esta analogia podemos inferir que para un sistema de n particulas el ve
   <img src="/images/4.png">
 </p>
 
+Es muy largo el escribir varios terminos de la ecuacion pero a la larga se veria que para un sistema de n particulas, los coeficientes de los vectores serian las multiplicaciones de todas las posibles convinaciones de coeficientes del resto de vectores, y lo mismo con los vectores enlazados, estos serian todas las posibles combinaciones que hayan con n vectores. 
+
 ## Discusion ejercicio 4.5.3
 
 Si se parte del sistema dado por el libro
@@ -73,13 +75,13 @@ Si se parte del sistema dado por el libro
   <img src="/images/5.png">
 </p>
 
-se puede decontruir la ecuacion de estado del ket phi y llegar a 
+se puede deconstruir la ecuacion de estado del ket phi y llegar a 
 
 <p align="center">
   <img src="/images/6.png">
 </p>
 
-Por tanto el vector phi podria representarse como el sistema de 2 particulas
+El sistema aneterior de ecuaciones tendria infinitas soluciones, pero la que considero mas sencilla de todas seria en la que el vector phi fuera el enzamblamiento de los vectores psi y tao como se muestra a continuacion
 
 <p align="center">
   <img src="/images/7.png">
